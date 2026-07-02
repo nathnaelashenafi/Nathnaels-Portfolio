@@ -23,7 +23,7 @@ It's a one file project where the CSS is integrated internally.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/nathnaelashenafi/Nathnaels-Portfolio.git
    ```
 
 2. Open the project folder.
